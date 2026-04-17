@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(
-    page_title="PORTFOLIO | Dindo", 
+    page_title="Welcome to My Page | Dindo", 
     page_icon="D", 
     layout="wide"
 )
@@ -76,7 +76,7 @@ with col_left:
     background: linear-gradient(135deg, #e8e6f0 40%, #a78bfa);
     -webkit-background-clip:text; -webkit-text-fill-color:transparent;
     margin-bottom:0.25rem;
-">Welcome to My Page</h1>
+">PORTFOLIO</h1>
 <hr style="border-color:#1e1e2e; margin-bottom:2rem;">
 """, unsafe_allow_html=True)
     
